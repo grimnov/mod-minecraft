@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "test_blocs_:blocks/sans_titre",
+    "up": "test_blocs_:blocks/sans_titre",
+    "north": "test_blocs_:blocks/sans_titre",
+    "east": "test_blocs_:blocks/sans_titre",
+    "south": "test_blocs_:blocks/sans_titre",
+    "west": "test_blocs_:blocks/sans_titre",
+    "particle": "test_blocs_:blocks/sans_titre"
+  }
+}

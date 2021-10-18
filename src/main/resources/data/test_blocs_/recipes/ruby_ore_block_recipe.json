@@ -1,0 +1,42 @@
+{
+  "group": "test_blocs_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "test_blocs_:ruby"
+    },
+    "1": {
+      "item": "test_blocs_:ruby"
+    },
+    "2": {
+      "item": "test_blocs_:ruby"
+    },
+    "3": {
+      "item": "test_blocs_:ruby"
+    },
+    "4": {
+      "item": "test_blocs_:ruby"
+    },
+    "5": {
+      "item": "test_blocs_:ruby"
+    },
+    "6": {
+      "item": "test_blocs_:ruby"
+    },
+    "7": {
+      "item": "test_blocs_:ruby"
+    },
+    "8": {
+      "item": "test_blocs_:ruby"
+    }
+  },
+  "result": {
+    "item": "test_blocs_:ruby_block",
+    "count": 1
+  }
+}

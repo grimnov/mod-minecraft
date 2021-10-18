@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "test_blocs_:blocks/minerai",
+    "up": "test_blocs_:blocks/minerai",
+    "north": "test_blocs_:blocks/minerai",
+    "east": "test_blocs_:blocks/minerai",
+    "south": "test_blocs_:blocks/minerai",
+    "west": "test_blocs_:blocks/minerai",
+    "particle": "test_blocs_:blocks/minerai"
+  }
+}

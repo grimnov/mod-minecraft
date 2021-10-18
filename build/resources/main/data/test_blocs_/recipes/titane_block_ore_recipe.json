@@ -1,0 +1,13 @@
+{
+  "group": "test_blocs_",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "test_blocs_:titane_block"
+    }
+  ],
+  "result": {
+    "item": "test_blocs_:titane",
+    "count": 9
+  }
+}

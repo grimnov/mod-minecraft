@@ -1,0 +1,30 @@
+{
+  "group": "test_blocs_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "test_blocs_:ruby"
+    },
+    "1": {
+      "item": "test_blocs_:ruby"
+    },
+    "2": {
+      "item": "test_blocs_:ruby"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "test_blocs_:rubi_pickaxe",
+    "count": 1
+  }
+}

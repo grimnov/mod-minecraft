@@ -1,0 +1,16 @@
+{
+  "group": "test_blocs_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "test_blocs_:platinium_sword",
+    "count": 1
+  }
+}
