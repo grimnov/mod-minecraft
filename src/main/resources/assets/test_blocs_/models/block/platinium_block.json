@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "test_blocs_:blocks/platinium_ore_block",
+    "particle": "test_blocs_:blocks/platinium_ore_block"
+  }
+}

@@ -450,7 +450,7 @@
       "name": "PlatiniumPickaxe",
       "type": "tool",
       "sortid": 69,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "platinium_pickaxe"
@@ -459,7 +459,7 @@
       "name": "PlatiniumAxe",
       "type": "tool",
       "sortid": 70,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "platinium_axe"
@@ -468,7 +468,7 @@
       "name": "PlatiniumSword",
       "type": "tool",
       "sortid": 71,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "platinium_sword"
@@ -477,7 +477,7 @@
       "name": "PlatiniumShovel",
       "type": "tool",
       "sortid": 72,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "platinium_shovel"
@@ -486,7 +486,7 @@
       "name": "PlatiniumHoe",
       "type": "tool",
       "sortid": 73,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "platinium_hoe"
@@ -537,58 +537,175 @@
       "registry_name": "platinium_hoe_recipe"
     },
     {
-      "name": "Platinium",
-      "type": "item",
+      "name": "PlatiniumWood",
+      "type": "block",
       "sortid": 79,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "platinium"
+      "registry_name": "platinium_wood"
     },
     {
-      "name": "PlatiniumOre",
+      "name": "PlatiniumLog",
       "type": "block",
       "sortid": 80,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "platinium_ore"
+      "registry_name": "platinium_log"
     },
     {
-      "name": "PlatiniumBlock",
+      "name": "PlatiniumPlanks",
       "type": "block",
       "sortid": 81,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "platinium_block"
+      "registry_name": "platinium_planks"
     },
     {
-      "name": "PlatiniumOreBlockRecipe",
-      "type": "recipe",
+      "name": "PlatiniumLeaves",
+      "type": "block",
       "sortid": 82,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "platinium_ore_block_recipe"
+      "registry_name": "platinium_leaves"
     },
     {
-      "name": "PlatiniumBlockOreRecipe",
-      "type": "recipe",
+      "name": "PlatiniumStairs",
+      "type": "block",
       "sortid": 83,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "platinium_block_ore_recipe"
+      "registry_name": "platinium_stairs"
     },
     {
-      "name": "PlatiniumOreSmelting",
-      "type": "recipe",
+      "name": "PlatiniumSlab",
+      "type": "block",
       "sortid": 84,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "platinium_ore_smelting"
+      "registry_name": "platinium_slab"
+    },
+    {
+      "name": "PlatiniumFence",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_fence"
+    },
+    {
+      "name": "PlatiniumFenceGate",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_fence_gate"
+    },
+    {
+      "name": "PlatiniumPressurePlate",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_pressure_plate"
+    },
+    {
+      "name": "PlatiniumButton",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_button"
+    },
+    {
+      "name": "PlatiniumItemsTag",
+      "type": "tag",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_items_tag"
+    },
+    {
+      "name": "PlatiniumWoodRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_wood_recipe"
+    },
+    {
+      "name": "PlatiniumPlanksRecipe",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_planks_recipe"
+    },
+    {
+      "name": "PlatiniumStairsRecipe",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_stairs_recipe"
+    },
+    {
+      "name": "PlatiniumSlabRecipe",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_slab_recipe"
+    },
+    {
+      "name": "PlatiniumFenceRecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_fence_recipe"
+    },
+    {
+      "name": "PlatiniumFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_fence_gate_recipe"
+    },
+    {
+      "name": "PlatiniumPressurePlateRecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_pressure_plate_recipe"
+    },
+    {
+      "name": "PlatiniumButtonRecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_button_recipe"
     }
   ],
   "variable_elements": [],
@@ -598,25 +715,32 @@
       "item.test_blocs_.epe": "Epe",
       "block.test_blocs_.titane_ore": "Titane Ore",
       "item.test_blocs_.platinium_pickaxe": "Platinium Pickaxe",
+      "block.test_blocs_.platinium_log": "Platinium Log",
       "item.test_blocs_.emeraud_hoe": "Emeraud Hoe",
       "item.test_blocs_.titan_shovel": "Titan Shovel",
       "item.test_blocs_.rubi_shovel": "Rubi Shovel",
-      "item.test_blocs_.platinium": "Platinium",
+      "block.test_blocs_.platinium_stairs": "Platinium Stairs",
       "item.test_blocs_.titan_hoe": "Titan Hoe",
       "item.test_blocs_.platinium_sword": "Platinium Sword",
       "item.test_blocs_.platinium_hoe": "Platinium Hoe",
       "item.test_blocs_.emeraud_axe": "Emeraud Axe",
       "item.test_blocs_.rubi_axe": "Rubi Axe",
+      "block.test_blocs_.platinium_slab": "Platinium Slab",
       "item.test_blocs_.emeraud_pickaxe": "Emeraud Pickaxe",
-      "block.test_blocs_.platinium_block": "Block of Platinium",
       "item.test_blocs_.emeraud_sword": "Emeraud Sword",
+      "block.test_blocs_.platinium_leaves": "Platinium Leaves",
       "item.test_blocs_.titane": "Titane",
+      "block.test_blocs_.platinium_fence_gate": "Platinium Fence Gate",
+      "block.test_blocs_.platinium_pressure_plate": "Platinium Pressure Plate",
       "item.test_blocs_.rubi_pickaxe": "Rubi Pickaxe",
       "item.test_blocs_.titan_axe": "Titan Axe",
       "item.test_blocs_.platinium_axe": "Platinium Axe",
       "item.test_blocs_.epes": "Epes",
-      "block.test_blocs_.platinium_ore": "Platinium Ore",
       "item.test_blocs_.rubi_hoe": "Rubi Hoe",
+      "block.test_blocs_.platinium_wood": "Platinium Wood",
+      "block.test_blocs_.platinium_fence": "Platinium Fence",
+      "block.test_blocs_.platinium_button": "Platinium Button",
+      "block.test_blocs_.platinium_planks": "Platinium Planks",
       "item.test_blocs_.platinium_shovel": "Platinium Shovel",
       "item.test_blocs_.rubi_sword": "Rubi Sword",
       "block.test_blocs_.titane_block": "Block of Titane",
