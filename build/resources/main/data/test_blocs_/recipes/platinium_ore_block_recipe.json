@@ -1,0 +1,42 @@
+{
+  "group": "test_blocs_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "test_blocs_:platinium"
+    },
+    "1": {
+      "item": "test_blocs_:platinium"
+    },
+    "2": {
+      "item": "test_blocs_:platinium"
+    },
+    "3": {
+      "item": "test_blocs_:platinium"
+    },
+    "4": {
+      "item": "test_blocs_:platinium"
+    },
+    "5": {
+      "item": "test_blocs_:platinium"
+    },
+    "6": {
+      "item": "test_blocs_:platinium"
+    },
+    "7": {
+      "item": "test_blocs_:platinium"
+    },
+    "8": {
+      "item": "test_blocs_:platinium"
+    }
+  },
+  "result": {
+    "item": "test_blocs_:platinium_block",
+    "count": 1
+  }
+}

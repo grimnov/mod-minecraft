@@ -168,6 +168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_smelting": {
+    "criteria": {
+      "has_diamond_ore": "2021-10-20 00:40:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2021-10-05 00:56:26 +0100"
@@ -189,6 +195,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2021-10-05 00:56:26 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting": {
+    "criteria": {
+      "has_coal_ore": "2021-10-20 01:33:14 +0100"
     },
     "done": true
   },
@@ -235,6 +247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond_from_blasting": {
+    "criteria": {
+      "has_diamond_ore": "2021-10-20 00:40:20 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2021-10-06 01:12:18 +0100"
@@ -274,6 +292,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2021-10-05 00:36:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting": {
+    "criteria": {
+      "has_coal_ore": "2021-10-20 01:33:14 +0100"
     },
     "done": true
   },

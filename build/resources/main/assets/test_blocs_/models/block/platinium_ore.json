@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "test_blocs_:blocks/platinium",
+    "up": "test_blocs_:blocks/platinium",
+    "north": "test_blocs_:blocks/platinium",
+    "east": "test_blocs_:blocks/platinium",
+    "south": "test_blocs_:blocks/platinium",
+    "west": "test_blocs_:blocks/platinium",
+    "particle": "test_blocs_:blocks/platinium"
+  }
+}

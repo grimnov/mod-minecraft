@@ -3,7 +3,7 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "titane",
+    "texture": "clear5",
     "customModelName": "Normal",
     "name": "Epes",
     "specialInfo": [],

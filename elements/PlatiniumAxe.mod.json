@@ -3,27 +3,23 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "platinium_axe",
+    "texture": "iron_axe_",
     "customModelName": "Normal",
     "name": "Platinium Axe",
     "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"
     },
-    "toolType": "Axe",
-    "harvestLevel": 2,
-    "efficiency": 6.0,
+    "toolType": "Pickaxe",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
     "attackSpeed": 1.0,
-    "enchantability": 14,
-    "damageVsEntity": 2.0,
-    "usageCount": 250,
+    "enchantability": 2,
+    "damageVsEntity": 4.0,
+    "usageCount": 100,
     "blocksAffected": [],
     "hasGlow": false,
-    "repairItems": [
-      {
-        "value": ""
-      }
-    ],
+    "repairItems": [],
     "immuneToFire": false,
     "stayInGridWhenCrafting": false,
     "damageOnCrafting": false
