@@ -10,7 +10,7 @@
     "creativeTab": {
       "value": "TOOLS"
     },
-    "toolType": "Hoe",
+    "toolType": "Special",
     "harvestLevel": 2,
     "efficiency": 6.0,
     "attackSpeed": 1.0,

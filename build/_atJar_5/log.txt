@@ -1,7 +1,7 @@
-Java Launcher: C:\Users\kenal\.mcreator\gradle\jdks\jdk8u302-b08\bin\java.exe
-Arguments: '--inJar, C:\Users\kenal\.mcreator\gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.2.0\forge-1.16.5-36.2.0-injected.jar, --outJar, C:\Users\kenal\.mcreator\gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.2.0_mapped_snapshot_20201028-1.16.3\forge-1.16.5-36.2.0_mapped_snapshot_20201028-1.16.3.jar, --logFile, accesstransform.log, --atFile, C:\Users\kenal\MCreatorWorkspaces\test_blocs_\build\_atJar_5\parent_at.cfg'
+Java Launcher: C:\Users\Luster\.mcreator\gradle\jdks\jdk8u302-b08\bin\java.exe
+Arguments: '--inJar, C:\Users\Luster\.mcreator\gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.2.0\forge-1.16.5-36.2.0-injected.jar, --outJar, C:\Users\Luster\.mcreator\gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.2.0_mapped_snapshot_20201028-1.16.3\forge-1.16.5-36.2.0_mapped_snapshot_20201028-1.16.3.jar, --logFile, accesstransform.log, --atFile, C:\Users\Luster\MCreator\build\_atJar_5\parent_at.cfg'
 Classpath:
- - C:\Users\kenal\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\3.0.1\accesstransformers-3.0.1-fatjar.jar
-Working directory: C:\Users\kenal\MCreatorWorkspaces\test_blocs_\build\_atJar_5
+ - C:\Users\Luster\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\3.0.1\accesstransformers-3.0.1-fatjar.jar
+Working directory: C:\Users\Luster\MCreator\build\_atJar_5
 Main class: net.minecraftforge.accesstransformer.TransformerProcessor
 ====================================

@@ -450,7 +450,7 @@
       "name": "PlatiniumPickaxe",
       "type": "tool",
       "sortid": 69,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "platinium_pickaxe"
@@ -459,7 +459,7 @@
       "name": "PlatiniumAxe",
       "type": "tool",
       "sortid": 70,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "platinium_axe"
@@ -468,7 +468,7 @@
       "name": "PlatiniumSword",
       "type": "tool",
       "sortid": 71,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "platinium_sword"
@@ -477,7 +477,7 @@
       "name": "PlatiniumShovel",
       "type": "tool",
       "sortid": 72,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "platinium_shovel"
