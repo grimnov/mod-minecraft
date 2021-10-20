@@ -113,8 +113,8 @@ public class RubyOreBlock extends TestBlocsModElements.ModElement {
 					return super.generate(world, generator, rand, pos, config);
 				}
 			};
-			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 7)).range(63)
-					.square().func_242731_b(11);
+			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 8)).range(54)
+					.square().func_242731_b(9);
 			event.getRegistry().register(feature.setRegistryName("ruby_ore"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("test_blocs_:ruby_ore"), configuredFeature);
 		}

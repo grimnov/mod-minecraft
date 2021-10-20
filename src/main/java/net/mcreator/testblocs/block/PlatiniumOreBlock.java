@@ -114,7 +114,7 @@ public class PlatiniumOreBlock extends TestBlocsModElements.ModElement {
 				}
 			};
 			configuredFeature = feature.withConfiguration(new OreFeatureConfig(CustomRuleTest.INSTANCE, block.getDefaultState(), 7)).range(63)
-					.square().func_242731_b(11);
+					.square().func_242731_b(4);
 			event.getRegistry().register(feature.setRegistryName("platinium_ore"));
 			Registry.register(WorldGenRegistries.CONFIGURED_FEATURE, new ResourceLocation("test_blocs_:platinium_ore"), configuredFeature);
 		}
