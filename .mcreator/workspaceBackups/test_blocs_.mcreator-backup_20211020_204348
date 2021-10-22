@@ -450,7 +450,7 @@
       "name": "PlatiniumPickaxe",
       "type": "tool",
       "sortid": 69,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "platinium_pickaxe"
@@ -459,7 +459,7 @@
       "name": "PlatiniumAxe",
       "type": "tool",
       "sortid": 70,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "platinium_axe"
@@ -468,7 +468,7 @@
       "name": "PlatiniumSword",
       "type": "tool",
       "sortid": 71,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "platinium_sword"
@@ -477,7 +477,7 @@
       "name": "PlatiniumShovel",
       "type": "tool",
       "sortid": 72,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "platinium_shovel"
@@ -535,6 +535,60 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "platinium_hoe_recipe"
+    },
+    {
+      "name": "Platinium",
+      "type": "item",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium"
+    },
+    {
+      "name": "PlatiniumOre",
+      "type": "block",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_ore"
+    },
+    {
+      "name": "PlatiniumBlock",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_block"
+    },
+    {
+      "name": "PlatiniumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_ore_block_recipe"
+    },
+    {
+      "name": "PlatiniumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_block_ore_recipe"
+    },
+    {
+      "name": "PlatiniumOreSmelting",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_ore_smelting"
     }
   ],
   "variable_elements": [],
@@ -546,6 +600,7 @@
       "item.test_blocs_.platinium_pickaxe": "Platinium Pickaxe",
       "item.test_blocs_.emeraud_hoe": "Emeraud Hoe",
       "item.test_blocs_.titan_shovel": "Titan Shovel",
+      "item.test_blocs_.platinium": "Platinium",
       "item.test_blocs_.rubi_shovel": "Rubi Shovel",
       "item.test_blocs_.titan_hoe": "Titan Hoe",
       "item.test_blocs_.platinium_sword": "Platinium Sword",
@@ -553,12 +608,14 @@
       "item.test_blocs_.emeraud_axe": "Emeraud Axe",
       "item.test_blocs_.rubi_axe": "Rubi Axe",
       "item.test_blocs_.emeraud_pickaxe": "Emeraud Pickaxe",
+      "block.test_blocs_.platinium_block": "Block of Platinium",
       "item.test_blocs_.emeraud_sword": "Emeraud Sword",
       "item.test_blocs_.titane": "Titane",
       "item.test_blocs_.rubi_pickaxe": "Rubi Pickaxe",
       "item.test_blocs_.titan_axe": "Titan Axe",
       "item.test_blocs_.platinium_axe": "Platinium Axe",
       "item.test_blocs_.epes": "Epes",
+      "block.test_blocs_.platinium_ore": "Platinium Ore",
       "item.test_blocs_.rubi_hoe": "Rubi Hoe",
       "item.test_blocs_.platinium_shovel": "Platinium Shovel",
       "item.test_blocs_.rubi_sword": "Rubi Sword",
