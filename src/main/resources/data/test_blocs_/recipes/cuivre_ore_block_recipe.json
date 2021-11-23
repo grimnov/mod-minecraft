@@ -1,0 +1,42 @@
+{
+  "group": "test_blocs_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "test_blocs_:cuivre"
+    },
+    "1": {
+      "item": "test_blocs_:cuivre"
+    },
+    "2": {
+      "item": "test_blocs_:cuivre"
+    },
+    "3": {
+      "item": "test_blocs_:cuivre"
+    },
+    "4": {
+      "item": "test_blocs_:cuivre"
+    },
+    "5": {
+      "item": "test_blocs_:cuivre"
+    },
+    "6": {
+      "item": "test_blocs_:cuivre"
+    },
+    "7": {
+      "item": "test_blocs_:cuivre"
+    },
+    "8": {
+      "item": "test_blocs_:cuivre"
+    }
+  },
+  "result": {
+    "item": "test_blocs_:cuivre_block",
+    "count": 1
+  }
+}

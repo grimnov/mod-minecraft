@@ -36,7 +36,6 @@ import net.minecraft.block.Blocks;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
-import net.mcreator.testblocs.item.PlatiniumItem;
 import net.mcreator.testblocs.TestBlocsModElements;
 
 import java.util.Random;
@@ -61,7 +60,7 @@ public class PlatiniumOreBlock extends TestBlocsModElements.ModElement {
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(3f, 5f).setLightLevel(s -> 0).harvestLevel(2)
+			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(30f, 20f).setLightLevel(s -> 0).harvestLevel(4)
 					.harvestTool(ToolType.PICKAXE).setRequiresTool());
 			setRegistryName("platinium_ore");
 		}
@@ -76,7 +75,7 @@ public class PlatiniumOreBlock extends TestBlocsModElements.ModElement {
 			List<ItemStack> dropsOriginal = super.getDrops(state, builder);
 			if (!dropsOriginal.isEmpty())
 				return dropsOriginal;
-			return Collections.singletonList(new ItemStack(PlatiniumItem.block));
+			return Collections.singletonList(new ItemStack(PlatiniumOreBlock.block));
 		}
 	}
 	private static Feature<OreFeatureConfig> feature = null;

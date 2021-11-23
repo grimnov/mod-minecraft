@@ -1,0 +1,1118 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Titane",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titane"
+    },
+    {
+      "name": "TitaneOre",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titane_ore"
+    },
+    {
+      "name": "TitaneBlock",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titane_block"
+    },
+    {
+      "name": "TitaneOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titane_ore_block_recipe"
+    },
+    {
+      "name": "TitaneBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titane_block_ore_recipe"
+    },
+    {
+      "name": "TitaneOreSmelting",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titane_ore_smelting"
+    },
+    {
+      "name": "TitanPickaxe",
+      "type": "tool",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_pickaxe"
+    },
+    {
+      "name": "TitanAxe",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_axe"
+    },
+    {
+      "name": "TitanSword",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_sword"
+    },
+    {
+      "name": "TitanShovel",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_shovel"
+    },
+    {
+      "name": "TitanHoe",
+      "type": "tool",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_hoe"
+    },
+    {
+      "name": "TitanPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_pickaxe_recipe"
+    },
+    {
+      "name": "TitanAxeRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_axe_recipe"
+    },
+    {
+      "name": "TitanSwordRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_sword_recipe"
+    },
+    {
+      "name": "TitanShovelRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_shovel_recipe"
+    },
+    {
+      "name": "TitanHoeRecipe",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "titan_hoe_recipe"
+    },
+    {
+      "name": "Epe",
+      "type": "tool",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "epe",
+      "path": "~/epe"
+    },
+    {
+      "name": "Ruby",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby"
+    },
+    {
+      "name": "RubyOre",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore"
+    },
+    {
+      "name": "RubyBlock",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_block"
+    },
+    {
+      "name": "RubyOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore_block_recipe"
+    },
+    {
+      "name": "RubyBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_block_ore_recipe"
+    },
+    {
+      "name": "RubyOreSmelting",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ruby_ore_smelting"
+    },
+    {
+      "name": "RubiPickaxe",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubi_pickaxe"
+    },
+    {
+      "name": "RubiAxe",
+      "type": "tool",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubi_axe"
+    },
+    {
+      "name": "RubiSword",
+      "type": "tool",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubi_sword"
+    },
+    {
+      "name": "RubiShovel",
+      "type": "tool",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubi_shovel"
+    },
+    {
+      "name": "RubiHoe",
+      "type": "tool",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubi_hoe"
+    },
+    {
+      "name": "RubiPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubi_pickaxe_recipe"
+    },
+    {
+      "name": "RubiAxeRecipe",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubi_axe_recipe"
+    },
+    {
+      "name": "RubiSwordRecipe",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubi_sword_recipe"
+    },
+    {
+      "name": "RubiShovelRecipe",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubi_shovel_recipe"
+    },
+    {
+      "name": "RubiHoeRecipe",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rubi_hoe_recipe"
+    },
+    {
+      "name": "EmeraudPickaxe",
+      "type": "tool",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraud_pickaxe"
+    },
+    {
+      "name": "EmeraudAxe",
+      "type": "tool",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraud_axe"
+    },
+    {
+      "name": "EmeraudSword",
+      "type": "tool",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraud_sword"
+    },
+    {
+      "name": "EmeraudShovel",
+      "type": "tool",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraud_shovel"
+    },
+    {
+      "name": "EmeraudHoe",
+      "type": "tool",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraud_hoe"
+    },
+    {
+      "name": "EmeraudPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraud_pickaxe_recipe"
+    },
+    {
+      "name": "EmeraudAxeRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraud_axe_recipe"
+    },
+    {
+      "name": "EmeraudSwordRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraud_sword_recipe"
+    },
+    {
+      "name": "EmeraudShovelRecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraud_shovel_recipe"
+    },
+    {
+      "name": "EmeraudHoeRecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emeraud_hoe_recipe"
+    },
+    {
+      "name": "Epes",
+      "type": "tool",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "epes",
+      "path": "~/epe"
+    },
+    {
+      "name": "PlatiniumPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_pickaxe_recipe"
+    },
+    {
+      "name": "PlatiniumAxeRecipe",
+      "type": "recipe",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_axe_recipe"
+    },
+    {
+      "name": "PlatiniumSwordRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_sword_recipe"
+    },
+    {
+      "name": "PlatiniumShovelRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_shovel_recipe"
+    },
+    {
+      "name": "PlatiniumHoeRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_hoe_recipe"
+    },
+    {
+      "name": "Platinium",
+      "type": "item",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium"
+    },
+    {
+      "name": "PlatiniumOre",
+      "type": "block",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_ore"
+    },
+    {
+      "name": "PlatiniumBlock",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_block"
+    },
+    {
+      "name": "PlatiniumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_ore_block_recipe"
+    },
+    {
+      "name": "PlatiniumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_block_ore_recipe"
+    },
+    {
+      "name": "PlatiniumOreSmelting",
+      "type": "recipe",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_ore_smelting"
+    },
+    {
+      "name": "PlatiniumAxe",
+      "type": "tool",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_axe"
+    },
+    {
+      "name": "Platiniumpickaxe",
+      "type": "tool",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platiniumpickaxe"
+    },
+    {
+      "name": "PlatiniumShovel",
+      "type": "tool",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_shovel"
+    },
+    {
+      "name": "Platiniumhoe",
+      "type": "tool",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platiniumhoe"
+    },
+    {
+      "name": "Ep",
+      "type": "tool",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ep",
+      "path": "~/epe"
+    },
+    {
+      "name": "Doublehache",
+      "type": "tool",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "doublehache"
+    },
+    {
+      "name": "Doublehach",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "doublehach"
+    },
+    {
+      "name": "Epeplatinium",
+      "type": "tool",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "epeplatinium"
+    },
+    {
+      "name": "Epeplatiniums",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "epeplatiniums"
+    },
+    {
+      "name": "Batontitan",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "batontitan"
+    },
+    {
+      "name": "Batontitane",
+      "type": "item",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "batontitane"
+    },
+    {
+      "name": "Batontitannediamant",
+      "type": "item",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "batontitannediamant"
+    },
+    {
+      "name": "Batontitanediamnt",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "batontitanediamnt"
+    },
+    {
+      "name": "Batontitaneemeraude",
+      "type": "item",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "batontitaneemeraude"
+    },
+    {
+      "name": "Batontitaneemeraud",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "batontitaneemeraud"
+    },
+    {
+      "name": "Batontitaneruby",
+      "type": "item",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "batontitaneruby"
+    },
+    {
+      "name": "Batontitanerubi",
+      "type": "recipe",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "batontitanerubi"
+    },
+    {
+      "name": "Batontitaneplatinium",
+      "type": "item",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "batontitaneplatinium"
+    },
+    {
+      "name": "Batontitaneplatiniu",
+      "type": "recipe",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "batontitaneplatiniu"
+    },
+    {
+      "name": "Cuivre",
+      "type": "item",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cuivre"
+    },
+    {
+      "name": "CuivreOre",
+      "type": "block",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cuivre_ore"
+    },
+    {
+      "name": "CuivreBlock",
+      "type": "block",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cuivre_block"
+    },
+    {
+      "name": "CuivreOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cuivre_ore_block_recipe"
+    },
+    {
+      "name": "CuivreBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cuivre_block_ore_recipe"
+    },
+    {
+      "name": "CuivreOreSmelting",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cuivre_ore_smelting"
+    },
+    {
+      "name": "Batoncuivre",
+      "type": "item",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "batoncuivre"
+    },
+    {
+      "name": "Batoncuivr",
+      "type": "recipe",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "batoncuivr"
+    },
+    {
+      "name": "CuivrPickaxe",
+      "type": "tool",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cuivr_pickaxe"
+    },
+    {
+      "name": "CuivrAxe",
+      "type": "tool",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cuivr_axe"
+    },
+    {
+      "name": "CuivrSword",
+      "type": "tool",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cuivr_sword"
+    },
+    {
+      "name": "CuivrShovel",
+      "type": "tool",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cuivr_shovel"
+    },
+    {
+      "name": "CuivrHoe",
+      "type": "tool",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cuivr_hoe"
+    },
+    {
+      "name": "CuivrPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cuivr_pickaxe_recipe"
+    },
+    {
+      "name": "CuivrAxeRecipe",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cuivr_axe_recipe"
+    },
+    {
+      "name": "CuivrSwordRecipe",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cuivr_sword_recipe"
+    },
+    {
+      "name": "CuivrShovelRecipe",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cuivr_shovel_recipe"
+    },
+    {
+      "name": "CuivrHoeRecipe",
+      "type": "recipe",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cuivr_hoe_recipe"
+    },
+    {
+      "name": "Corium",
+      "type": "item",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corium"
+    },
+    {
+      "name": "CoriumOre",
+      "type": "block",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corium_ore"
+    },
+    {
+      "name": "CoriumBlock",
+      "type": "block",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corium_block"
+    },
+    {
+      "name": "CoriumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corium_ore_block_recipe"
+    },
+    {
+      "name": "CoriumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corium_block_ore_recipe"
+    },
+    {
+      "name": "CoriumOreSmelting",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corium_ore_smelting"
+    },
+    {
+      "name": "Briquet",
+      "type": "item",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "briquet"
+    },
+    {
+      "name": "Marteau",
+      "type": "item",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "marteau"
+    },
+    {
+      "name": "Poudre",
+      "type": "item",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poudre"
+    },
+    {
+      "name": "Brique",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brique"
+    },
+    {
+      "name": "CoriumsPickaxe",
+      "type": "tool",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coriums_pickaxe"
+    },
+    {
+      "name": "CoriumsAxe",
+      "type": "tool",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coriums_axe"
+    },
+    {
+      "name": "CoriumsSword",
+      "type": "tool",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coriums_sword"
+    },
+    {
+      "name": "CoriumsShovel",
+      "type": "tool",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coriums_shovel"
+    },
+    {
+      "name": "CoriumsHoe",
+      "type": "tool",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coriums_hoe"
+    },
+    {
+      "name": "CoriumsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coriums_pickaxe_recipe"
+    },
+    {
+      "name": "CoriumsAxeRecipe",
+      "type": "recipe",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coriums_axe_recipe"
+    },
+    {
+      "name": "CoriumsSwordRecipe",
+      "type": "recipe",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coriums_sword_recipe"
+    },
+    {
+      "name": "CoriumsShovelRecipe",
+      "type": "recipe",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coriums_shovel_recipe"
+    },
+    {
+      "name": "CoriumsHoeRecipe",
+      "type": "recipe",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "coriums_hoe_recipe"
+    },
+    {
+      "name": "Batoncorium",
+      "type": "item",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "batoncorium"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.test_blocs_.titane_ore": "Titane Ore",
+      "item.test_blocs_.epe": "Epe feu",
+      "item.test_blocs_.marteau": "Marteau",
+      "item.test_blocs_.platiniumhoe": "Platiniumhoe",
+      "item.test_blocs_.emeraud_hoe": "Emeraud Hoe",
+      "item.test_blocs_.titan_shovel": "Titan Shovel",
+      "item.test_blocs_.corium": "Corium",
+      "item.test_blocs_.briquet": "Briquet",
+      "item.test_blocs_.batoncorium": "Batoncorium",
+      "block.test_blocs_.corium_ore": "Corium Ore",
+      "item.test_blocs_.emeraud_pickaxe": "Emeraud Pickaxe",
+      "item.test_blocs_.emeraud_sword": "Emeraud Sword",
+      "item.test_blocs_.ep": "Epé de feu bleu ",
+      "item.test_blocs_.poudre": "Poudre",
+      "item.test_blocs_.coriums_axe": "Coriums Axe",
+      "item.test_blocs_.doublehache": "Double hache",
+      "item.test_blocs_.rubi_pickaxe": "Rubi Pickaxe",
+      "item.test_blocs_.rubi_hoe": "Rubi Hoe",
+      "item.test_blocs_.cuivr_axe": "Cuivr Axe",
+      "item.test_blocs_.coriums_shovel": "Coriums Shovel",
+      "block.test_blocs_.titane_block": "Block of Titane",
+      "block.test_blocs_.ruby_block": "Block of Ruby",
+      "item.test_blocs_.cuivr_sword": "Cuivr Sword",
+      "item.test_blocs_.ruby": "Ruby",
+      "block.test_blocs_.cuivre_ore": "Cuivre Ore",
+      "item.test_blocs_.batontitane": "Bâton-titane",
+      "item.test_blocs_.batontitaneplatinium": "Baton titane-platinium",
+      "item.test_blocs_.platiniumpickaxe": "Platiniumpickaxe",
+      "block.test_blocs_.cuivre_block": "Block of Cuivre",
+      "item.test_blocs_.batontitaneruby": "Bâton titane-ruby",
+      "item.test_blocs_.platinium": "Platinium",
+      "item.test_blocs_.rubi_shovel": "Rubi Shovel",
+      "item.test_blocs_.titan_hoe": "Titan Hoe",
+      "item.test_blocs_.emeraud_axe": "Emeraud Axe",
+      "item.test_blocs_.rubi_axe": "Rubi Axe",
+      "block.test_blocs_.platinium_block": "Block of Platinium",
+      "item.test_blocs_.titane": "Titane",
+      "item.test_blocs_.coriums_pickaxe": "Coriums Pickaxe",
+      "item.test_blocs_.platinium_axe": "Platinium Axe",
+      "item.test_blocs_.titan_axe": "Titan Axe",
+      "item.test_blocs_.epes": "Epes electrique",
+      "block.test_blocs_.platinium_ore": "Platinium Ore",
+      "item.test_blocs_.cuivr_shovel": "Cuivr Shovel",
+      "item.test_blocs_.batoncuivre": "Batoncuivre",
+      "item.test_blocs_.coriums_sword": "Coriums Sword",
+      "block.test_blocs_.corium_block": "Block of Corium",
+      "item.test_blocs_.platinium_shovel": "Platinium Shovel",
+      "item.test_blocs_.rubi_sword": "Rubi Sword",
+      "item.test_blocs_.cuivr_pickaxe": "Cuivr Pickaxe",
+      "item.test_blocs_.titan_pickaxe": "Titan Pickaxe",
+      "item.test_blocs_.cuivre": "Cuivre",
+      "item.test_blocs_.coriums_hoe": "Coriums Hoe",
+      "item.test_blocs_.batontitaneemeraude": "Baton titane-emeraude",
+      "item.test_blocs_.batontitannediamant": "Bâton-titane-diamant",
+      "item.test_blocs_.cuivr_hoe": "Cuivr Hoe",
+      "item.test_blocs_.titan_sword": "Titan Sword",
+      "item.test_blocs_.emeraud_shovel": "Emeraud Shovel",
+      "item.test_blocs_.epeplatinium": "Epe-platinium",
+      "block.test_blocs_.ruby_ore": "Ruby Ore"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "epe",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "test_blocs_",
+    "modName": "",
+    "version": "1.0.0",
+    "author": "kenal, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.testblocs",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100236710
+}

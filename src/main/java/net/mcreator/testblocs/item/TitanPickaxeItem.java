@@ -36,7 +36,7 @@ public class TitanPickaxeItem extends TestBlocsModElements.ModElement {
 			}
 
 			public int getHarvestLevel() {
-				return 2;
+				return 4;
 			}
 
 			public int getEnchantability() {

@@ -36,7 +36,6 @@ import net.minecraft.block.Blocks;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
-import net.mcreator.testblocs.item.RubyItem;
 import net.mcreator.testblocs.TestBlocsModElements;
 
 import java.util.Random;
@@ -61,7 +60,7 @@ public class RubyOreBlock extends TestBlocsModElements.ModElement {
 	}
 	public static class CustomBlock extends Block {
 		public CustomBlock() {
-			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(3f, 5f).setLightLevel(s -> 0).harvestLevel(2)
+			super(Block.Properties.create(Material.ROCK).sound(SoundType.STONE).hardnessAndResistance(15f, 20f).setLightLevel(s -> 0).harvestLevel(4)
 					.harvestTool(ToolType.PICKAXE).setRequiresTool());
 			setRegistryName("ruby_ore");
 		}
@@ -76,7 +75,7 @@ public class RubyOreBlock extends TestBlocsModElements.ModElement {
 			List<ItemStack> dropsOriginal = super.getDrops(state, builder);
 			if (!dropsOriginal.isEmpty())
 				return dropsOriginal;
-			return Collections.singletonList(new ItemStack(RubyItem.block));
+			return Collections.singletonList(new ItemStack(RubyOreBlock.block));
 		}
 	}
 	private static Feature<OreFeatureConfig> feature = null;

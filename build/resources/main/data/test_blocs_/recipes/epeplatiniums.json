@@ -1,0 +1,24 @@
+{
+  "group": "test_blocs_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "test_blocs_:platinium"
+    },
+    "1": {
+      "item": "test_blocs_:platinium"
+    },
+    "2": {
+      "item": "test_blocs_:batontitaneplatinium"
+    }
+  },
+  "result": {
+    "item": "test_blocs_:epeplatinium",
+    "count": 1
+  }
+}

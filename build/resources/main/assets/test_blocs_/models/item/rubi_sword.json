@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "test_blocs_:items/rubye_epee_"
+    "layer0": "test_blocs_:items/epe"
   }
 }

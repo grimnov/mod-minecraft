@@ -1,6 +1,6 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "test_blocs_:items/emeraud_pickaxe"
+    "layer0": "test_blocs_:items/pioche-titane"
   }
 }

@@ -3,7 +3,7 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "emeraud_pickaxe",
+    "texture": "pioche-titane",
     "customModelName": "Normal",
     "name": "Emeraud Pickaxe",
     "specialInfo": [],

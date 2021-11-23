@@ -43,7 +43,7 @@
     },
     "destroyTool": "pickaxe",
     "customDrop": {
-      "value": "CUSTOM:Titane"
+      "value": "CUSTOM:TitaneOre"
     },
     "dropAmount": 1,
     "useLootTableForDrops": false,

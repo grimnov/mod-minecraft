@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "test_blocs_:block/briquebleu"
+    },
+    "facing=east": {
+      "model": "test_blocs_:block/briquebleu",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "test_blocs_:block/briquebleu",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "test_blocs_:block/briquebleu",
+      "y": 270
+    }
+  }
+}

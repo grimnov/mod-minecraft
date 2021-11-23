@@ -1,0 +1,42 @@
+{
+  "group": "test_blocs_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stone_bricks"
+    },
+    "1": {
+      "item": "minecraft:stone_bricks"
+    },
+    "2": {
+      "item": "minecraft:stone_bricks"
+    },
+    "3": {
+      "item": "minecraft:stone_bricks"
+    },
+    "4": {
+      "item": "test_blocs_:poudre"
+    },
+    "5": {
+      "item": "minecraft:stone_bricks"
+    },
+    "6": {
+      "item": "minecraft:stone_bricks"
+    },
+    "7": {
+      "item": "minecraft:stone_bricks"
+    },
+    "8": {
+      "item": "minecraft:stone_bricks"
+    }
+  },
+  "result": {
+    "item": "test_blocs_:briquebleu",
+    "count": 1
+  }
+}

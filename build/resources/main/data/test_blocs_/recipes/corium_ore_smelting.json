@@ -1,0 +1,12 @@
+{
+  "group": "test_blocs_",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "test_blocs_:corium_ore"
+  },
+  "result": {
+    "item": "test_blocs_:corium"
+  }
+}

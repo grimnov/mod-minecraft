@@ -1,7 +1,7 @@
 {
   "group": "test_blocs_",
   "type": "minecraft:smelting",
-  "experience": 0.7,
+  "experience": 10.7,
   "cookingtime": 200,
   "ingredient": {
     "item": "test_blocs_:ruby_ore"

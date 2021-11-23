@@ -3,7 +3,7 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "iron_shovel",
+    "texture": "pelle_titane_",
     "customModelName": "Normal",
     "name": "Titan Shovel",
     "specialInfo": [],

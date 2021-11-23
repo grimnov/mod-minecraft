@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "test_blocs_:blocks/brique_de_pierre_tailler_",
+    "up": "test_blocs_:blocks/brique_de_pierre_tailler_",
+    "north": "test_blocs_:blocks/brique_de_pierre_tailler_",
+    "east": "test_blocs_:blocks/brique_de_pierre_tailler_",
+    "south": "test_blocs_:blocks/brique_de_pierre_tailler_",
+    "west": "test_blocs_:blocks/brique_de_pierre_tailler_",
+    "particle": "test_blocs_:blocks/brique_de_pierre_tailler_"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "group": "test_blocs_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "test_blocs_:corium"
+    },
+    "1": {
+      "item": "test_blocs_:marteau"
+    }
+  },
+  "result": {
+    "item": "test_blocs_:poudre",
+    "count": 1
+  }
+}

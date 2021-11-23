@@ -1,0 +1,30 @@
+{
+  "group": "test_blocs_",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "test_blocs_:cuivre"
+    },
+    "1": {
+      "item": "test_blocs_:cuivre"
+    },
+    "2": {
+      "item": "test_blocs_:cuivre"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "test_blocs_:cuivr_pickaxe",
+    "count": 1
+  }
+}

@@ -3,7 +3,7 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "iron_sword1",
+    "texture": "epe-titane_",
     "customModelName": "Normal",
     "name": "Titan Sword",
     "specialInfo": [],
@@ -11,7 +11,7 @@
       "value": "COMBAT"
     },
     "toolType": "Sword",
-    "harvestLevel": 2,
+    "harvestLevel": 1,
     "efficiency": 10.0,
     "attackSpeed": 6.0,
     "enchantability": 14,

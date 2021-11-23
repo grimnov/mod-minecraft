@@ -36,7 +36,6 @@ import net.minecraft.block.Blocks;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
-import net.mcreator.testblocs.item.TitaneItem;
 import net.mcreator.testblocs.TestBlocsModElements;
 
 import java.util.Random;
@@ -76,7 +75,7 @@ public class TitaneOreBlock extends TestBlocsModElements.ModElement {
 			List<ItemStack> dropsOriginal = super.getDrops(state, builder);
 			if (!dropsOriginal.isEmpty())
 				return dropsOriginal;
-			return Collections.singletonList(new ItemStack(TitaneItem.block));
+			return Collections.singletonList(new ItemStack(TitaneOreBlock.block));
 		}
 	}
 	private static Feature<OreFeatureConfig> feature = null;

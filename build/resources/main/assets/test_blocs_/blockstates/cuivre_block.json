@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "test_blocs_:block/cuivre_block"
+    }
+  }
+}

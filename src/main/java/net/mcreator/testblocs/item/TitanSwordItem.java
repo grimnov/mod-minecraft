@@ -36,7 +36,7 @@ public class TitanSwordItem extends TestBlocsModElements.ModElement {
 			}
 
 			public int getHarvestLevel() {
-				return 2;
+				return 1;
 			}
 
 			public int getEnchantability() {

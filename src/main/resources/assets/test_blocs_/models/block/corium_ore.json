@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "test_blocs_:blocks/minerai_corium",
+    "particle": "test_blocs_:blocks/minerai_corium"
+  }
+}

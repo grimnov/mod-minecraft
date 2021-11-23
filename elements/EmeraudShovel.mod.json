@@ -3,7 +3,7 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "emeraud_shovel",
+    "texture": "pelle_emeraude",
     "customModelName": "Normal",
     "name": "Emeraud Shovel",
     "specialInfo": [],
