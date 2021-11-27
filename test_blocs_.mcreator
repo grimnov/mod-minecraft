@@ -400,6 +400,54 @@
       "path": "~/epe"
     },
     {
+<<<<<<< HEAD
+=======
+      "name": "PlatiniumPickaxe",
+      "type": "tool",
+      "sortid": 69,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_pickaxe"
+    },
+    {
+      "name": "PlatiniumAxe",
+      "type": "tool",
+      "sortid": 70,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_axe"
+    },
+    {
+      "name": "PlatiniumSword",
+      "type": "tool",
+      "sortid": 71,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_sword"
+    },
+    {
+      "name": "PlatiniumShovel",
+      "type": "tool",
+      "sortid": 72,
+      "compiles": false,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_shovel"
+    },
+    {
+      "name": "PlatiniumHoe",
+      "type": "tool",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_hoe"
+    },
+    {
+>>>>>>> 7dcf4c3a1fef6a66788cef5b9c6ae2a5a1e3c27c
       "name": "PlatiniumPickaxeRecipe",
       "type": "recipe",
       "sortid": 74,

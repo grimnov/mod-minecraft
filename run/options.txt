@@ -1,21 +1,5 @@
-version:2586
-autoJump:false
-autoSuggestions:true
-chatColors:true
-chatLinks:true
-chatLinksPrompt:true
-enableVsync:false
-entityShadows:true
-forceUnicodeFont:false
-discrete_mouse_scroll:false
-invertYMouse:false
-realmsNotifications:true
-reducedDebugInfo:false
-snooperEnabled:false
-showSubtitles:false
-touchscreen:false
-fullscreen:false
 bobView:false
+<<<<<<< HEAD
 toggleCrouch:false
 toggleSprint:false
 mouseSensitivity:0.5
@@ -117,3 +101,16 @@ modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
+=======
+fboEnable:true
+lastServer:localhost:25463
+renderDistance:5
+fancyGraphics:false
+entityShadows:true
+enableVsync:false
+maxFps:260
+particles:0
+renderClouds:false
+ao:0
+mipmapLevels:2
+>>>>>>> 7dcf4c3a1fef6a66788cef5b9c6ae2a5a1e3c27c

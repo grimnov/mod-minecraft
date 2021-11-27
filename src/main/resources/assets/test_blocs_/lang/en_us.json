@@ -5,6 +5,7 @@
   "item.test_blocs_.platiniumhoe": "Platiniumhoe",
   "item.test_blocs_.emeraud_hoe": "Emeraud Hoe",
   "item.test_blocs_.titan_shovel": "Titan Shovel",
+<<<<<<< HEAD
   "item.test_blocs_.corium": "Corium",
   "item.test_blocs_.briquet": "Briquet",
   "block.test_blocs_.corium_ore": "Corium Ore",
@@ -29,6 +30,8 @@
   "item.test_blocs_.platiniumpickaxe": "Platiniumpickaxe",
   "block.test_blocs_.cuivre_block": "Block of Cuivre",
   "item.test_blocs_.batontitaneruby": "Bâton titane-ruby",
+=======
+>>>>>>> 7dcf4c3a1fef6a66788cef5b9c6ae2a5a1e3c27c
   "item.test_blocs_.platinium": "Platinium",
   "item.test_blocs_.rubi_shovel": "Rubi Shovel",
   "item.test_blocs_.titan_hoe": "Titan Hoe",
